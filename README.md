@@ -1,2 +1,3 @@
 # Liver-Cirrhosis-Detection
 Liver Cirrhosis Detection Model using Random Forest to predict disease stage with 95% accuracy, featuring a Flask-based dashboard and interactive severity visualization.
+There is a zip file added in this repository which consists of the trained file and the interface script which you can use on any Python compatible IDE. You just need the trained files which are the label encoders.pkl, liver stage model.pkl, and the scaler.pkl. Just use the code of the Interface Script and load the interface by clicking on the flask based url to load the local host:"http://127.0.0.1:5000".
